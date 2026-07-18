@@ -1,73 +1,106 @@
-# 🚀 Hi, I'm Krishna Gupta! 
+# Hi there 👋, I'm Krishna Gupta
 
-### **Software Engineer | Backend & Data Solutions Developer**
+### 🚀 B.Tech CSE Student | Java Developer | Learning DSA & Full Stack Development
 
-An ambitious, results-driven software engineer and technology enthusiast with a strong foundation in building scalable backend services, optimizing data pipelines, and designing clean architectures. Passionate about solving complex real-world problems through elegant code and modern cloud technologies.
+I'm a Computer Science undergraduate passionate about building software that solves real-world problems.
 
----
+Currently, I'm focused on strengthening my problem-solving skills through **Data Structures & Algorithms**, improving my **Java** fundamentals, and building **Full Stack Web Development** projects.
 
-### 🌌 About Me
-
-- 🏢 **Current Focus**: Enhancing backend systems, exploring cloud native architectures, and building production-ready APIs.
-- ⚙️ **Core Philosophy**: "Write code that is readable, scalable, and maintainable."
-- 🧠 **Learning & Exploring**: Advanced System Design, Distributed Systems, and Large Language Model (LLM) Integrations.
-- 🤝 **Collaboration**: Open to open-source contributions, technical writing, and collaborative innovative projects.
+I believe in learning by building, writing clean code, and improving a little every single day.
 
 ---
 
-### 🛠️ Technical Toolkit
+## 👨‍💻 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, SQL, HTML/CSS |
-| **Frameworks & Libraries** | Spring Boot, Django, FastAPI, Node.js, Express.js |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, Git, GitHub Actions, CI/CD Pipelines |
-| **Architectures & Paradigms** | RESTful APIs, Microservices, MVC, Object-Oriented Programming (OOP) |
+🎓 B.Tech CSE (2025–2029)
+🏫 PW Institute of Innovation × Medhavi Skills University
+
+🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Object Oriented Programming
+- DBMS
+
+🎯 2026 Goals
+- Solve 500+ DSA problems
+- Build quality Full Stack Projects
+- Contribute to Open Source
+- Participate in Hackathons
+- Become Industry Ready
 
 ---
 
-### 📈 GitHub Statistics
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-gupta&show_icons=true&theme=tokyonight&count_private=true" alt="Krishna's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-gupta&theme=tokyonight" alt="Krishna's GitHub Streak" height="180px" />
+### Languages
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Projects
+
+### 🌍 TravelWise
+A smart travel planner that helps users explore destinations, view weather updates, and locate places on an interactive map.
+
+**Tech Stack**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Leaflet Maps API
+- OpenWeather API
+
+### 💻 More Projects Coming Soon...
+
+Currently working on projects related to:
+- Java
+- DSA
+- Web Development
+- Backend Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna-gupta-code&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-gupta-code&theme=tokyonight" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-gupta-code&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
-### 📂 Featured Projects
+## 🌐 Connect With Me
 
-#### 🔹 **1. Distributed Task Queue System**
-*A high-throughput asynchronous task execution service designed to handle CPU-intensive operations smoothly.*
-- **Tech Stack**: Python, FastAPI, Celery, Redis, Docker
-- **Key Features**: Priority queues, auto-retry mechanism, and real-time execution monitoring dashboards.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-gupta-688066381/)
 
-#### 🔹 **2. Microservices E-Commerce API Suite**
-*A robust, scalable backend architecture for an online marketplace focusing on decoupled domain-driven design.*
-- **Tech Stack**: Java, Spring Boot, Spring Cloud, PostgreSQL, Docker
-- **Key Features**: Centralized API Gateway, JWT authentication, and Eureka Discovery Server integration.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Krishna-gupta-code)
 
-#### 🔹 **3. Real-Time Data Pipeline**
-*An end-to-end data processing stream for analyzing live user engagement metrics.*
-- **Tech Stack**: Node.js, Kafka, PostgreSQL, Docker
-- **Key Features**: Event-driven ingestion, deduplication logic, and automated batch aggregation scripts.
+📧 **Email:** krishnagupta262912@gmail.com
 
 ---
 
-### 📫 Connect with Me
+## 💡 Quote I Live By
 
-Let's discuss software engineering, system design, or innovative tech solutions!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishna-gupta-688066381/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:krishna.gupta.dev@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+> "Success doesn't come from what you do occasionally, it comes from what you do consistently."
 
 ---
 
-⚡ *“The best way to predict the future is to invent it.” – Alan Kay*
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
